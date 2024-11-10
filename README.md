@@ -3,30 +3,18 @@
 
 
 <h4 align="left">Skills</h4>
-<p dir="auto"> 
-  <a href="https://skillicons.dev/" rel="nofollow"> 
+<p dir="auto">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" style="max-width: 100%"/> 
-  </a>
          
-  <a href="https://skillicons.dev/" rel="nofollow"> 
     <img src="https://skillicons.dev/icons?i=css" alt="css3" style="max-width: 100%"/> 
-  </a>    
          
-  <a href="https://skillicons.dev/" rel="nofollow"> 
     <img src="https://skillicons.dev/icons?i=js" alt="js" style="max-width: 100%"/> 
-  </a>
          
-  <a href="https://skillicons.dev/" rel="nofollow"> 
-    <img src="https://skillicons.dev/icons?i=ts" alt="ts" style="max-width: 100%"/> 
-  </a> 
-         
-  <a href="https://skillicons.dev/" rel="nofollow"> 
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" style="max-width: 100%"/> 
-  </a>                                  
-         
-  <a href="https://skillicons.dev/" rel="nofollow"> 
-    <img src="https://skillicons.dev/icons?i=react" alt="react" style="max-width: 100%"/> 
-  </a>                                                                                                      
+    <img src="https://skillicons.dev/icons?i=ts" alt="ts" style="max-width: 100%"/>
+           
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" style="max-width: 100%"/>
+           
+    <img src="https://skillicons.dev/icons?i=react" alt="react" style="max-width: 100%"/>                                                                                                
 </p>
 
 <h3 align="left">Socials</h3>
